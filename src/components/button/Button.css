@@ -1,19 +1,17 @@
 .button {
+  border: none;
+  background: #5463FF;
+  border-radius: 0.75rem;
+  padding: 0.75rem;
+  width: 100%;
+  cursor: pointer;
 
-    border: none;
-    background: #2E6434;
-border-radius: 0.75rem;
-padding: 0.75rem;
-width: 100%;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 40px;
 
-font-style: normal;
-font-weight: 600;
-font-size: 22px;
-line-height: 40px;
-/* identical to box height, or 182% */
+  text-align: center;
 
-text-align: center;
-
-color: #FFFFFF;
-
+  color: #ffffff;
 }
